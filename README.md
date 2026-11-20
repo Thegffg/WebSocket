@@ -20,7 +20,7 @@
 ## Быстрый старт
 
 ```bash
-git clone https://github.com/<your-username>/websocket-practice.git
+git clone https://github.com/Thegffg/websocket-practice.git
 cd websocket-practice
 
 python -m venv .venv
