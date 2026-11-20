@@ -1,7 +1,6 @@
 # WebSocket Practice — форматы данных и WebSocket
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 Практика по курсу **«Сетевое программирование. Модуль 2. Высокоуровневые протоколы»**
 (пара 06 — *Форматы данных и WebSocket*).
@@ -173,13 +172,3 @@ websocket-practice/
 ├── LICENSE
 └── README.md
 ```
-
-## Полезные ссылки
-
-- [RFC 6455 — The WebSocket Protocol](https://datatracker.ietf.org/doc/html/rfc6455)
-- [Protocol Buffers: Encoding](https://protobuf.dev/programming-guides/encoding/)
-- [Документация библиотеки websockets](https://websockets.readthedocs.io/)
-
-## Лицензия
-
-[MIT](LICENSE)
