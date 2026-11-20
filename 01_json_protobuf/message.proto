@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+// Схема для справки. Задание выполняется без protoc:
+// кодирование протокола реализовано вручную в protobuf_lite.py.
+message User {
+  int32  id     = 1;
+  string name   = 2;
+  string email  = 3;
+  bool   active = 4;
+  repeated int32  scores = 5;
+  repeated string tags   = 6;
+}
